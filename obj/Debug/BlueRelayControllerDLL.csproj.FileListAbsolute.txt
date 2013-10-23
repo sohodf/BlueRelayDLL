@@ -1,0 +1,7 @@
+c:\users\itl\documents\visual studio 2010\Projects\BlueRelayControllerDLL\BlueRelayControllerDLL\bin\Debug\BlueRelayControllerDLL.dll
+c:\users\itl\documents\visual studio 2010\Projects\BlueRelayControllerDLL\BlueRelayControllerDLL\bin\Debug\BlueRelayControllerDLL.pdb
+c:\users\itl\documents\visual studio 2010\Projects\BlueRelayControllerDLL\BlueRelayControllerDLL\bin\Debug\FTD2XX_NET.dll
+c:\users\itl\documents\visual studio 2010\Projects\BlueRelayControllerDLL\BlueRelayControllerDLL\bin\Debug\FTD2XX_NET.xml
+c:\users\itl\documents\visual studio 2010\Projects\BlueRelayControllerDLL\BlueRelayControllerDLL\obj\Debug\ResolveAssemblyReference.cache
+c:\users\itl\documents\visual studio 2010\Projects\BlueRelayControllerDLL\BlueRelayControllerDLL\obj\Debug\BlueRelayControllerDLL.dll
+c:\users\itl\documents\visual studio 2010\Projects\BlueRelayControllerDLL\BlueRelayControllerDLL\obj\Debug\BlueRelayControllerDLL.pdb
