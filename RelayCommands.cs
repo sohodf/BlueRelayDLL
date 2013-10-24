@@ -68,6 +68,12 @@ namespace BlueRelayControllerDLL
             myFtdiDevice.Write(sentBytes, 1, ref receivedBytes);
         }
 
+        //send byte
+        public void SendByte(byte[] ToSend)
+        {
+            myFtdiDevice.Write(ToSend, 1, ref receivedBytes);
+        }
+
         //Turns all relays off.
         public void AllRelaysOff()
         {
